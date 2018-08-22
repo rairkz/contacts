@@ -1,11 +1,11 @@
 [{
 		"name": "Hello",
-		"image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
+		"image": "https://raw.githubusercontent.com/rairkz/contacts/master/right_arrow_logo.jpg",
 		"phone": "(541) 754-3010"
 	},
 	{
 		"name": "Johnny Depp",
-		"image": "https://api.androidhive.info/json/images/johnny.jpg",
+		"image": "https://raw.githubusercontent.com/rairkz/contacts/master/right_arrow_logo.jpg",
 		"phone": "(452) 839-1210"
 	},
 	{
