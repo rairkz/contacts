@@ -1,0 +1,16 @@
+[{
+		"name": "About",
+		"image": "https://raw.githubusercontent.com/rairkz/contacts/master/right_arrow_logo.jpg",
+		"phone": "(541) 754-3010"
+	},
+	{
+		"name": "Johnny Depp",
+		"image": "https://raw.githubusercontent.com/rairkz/contacts/master/right_arrow_logo.jpg",
+		"phone": "(452) 839-1210"
+	},
+	{
+		"name": "Tom Cruise",
+		"image": "https://raw.githubusercontent.com/rairkz/contacts/master/right_arrow_logo.jpg",
+		"phone": "(541) 453-2311"
+	}
+]
